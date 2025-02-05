@@ -50,7 +50,8 @@ I’m always learning and evolving, whether it’s mastering a new technology or
 🎯 Let's Connect
 I’m open to collaborations, discussions, and project opportunities. If you’re working on something interesting in the data space or just want to chat about tech, movies, or creative writing, feel free to reach out! 
 
-<a href="https://drive.google.com/file/d/10ddpU2wKhJgjVJB9zwq-9mnyX19kx1V2/view?usp=drive_link" target="_blank">
-    <button class="download-btn">View My Resume</button>
+<a href="https://drive.google.com/uc?export=download&id=10ddpU2wKhJgjVJB9zwq-9mnyX19kx1V2" download>
+    <button class="download-btn">Download My Resume</button>
 </a>
+
 
