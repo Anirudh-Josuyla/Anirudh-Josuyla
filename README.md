@@ -46,18 +46,7 @@
   </a>
 </p>
 
----
 
-### 📈 **GitHub Stats & Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjosuyla&theme=radical&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudhjosuyla&show_icons=true&theme=radical&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjosuyla&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 🎯 **What Drives Me?**
 🚀 **Scalable Data Solutions** – Building pipelines that don't just work but thrive at scale.  
@@ -66,23 +55,6 @@
 
 > _"The data is always speaking. You just have to learn how to listen."_  
 
----
-
-### 📝 **Latest Blog Posts & Content**
-<!-- BLOG-POST-LIST:START -->
-➡️ [Coming Soon: Technical Blogs & Project Breakdowns!]  
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📂 **Featured Projects**
-🔹 **Project 1: Real-Time Data Pipeline with AWS & Snowflake**  
-🔹 **Project 2: Automated ETL Workflow with Apache Airflow**  
-🔹 **Project 3: Data Warehouse Optimization & Query Tuning**  
-
-📌 Check out my repositories for full details!  
-
----
 
 ### 🎬 **Fun Fact**
 **I believe every dataset has a hidden story.** 🔍 I just help bring it to life! 📊📖  
