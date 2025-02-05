@@ -24,11 +24,10 @@ In my free time, I love watching movies and diving into creative writing, explor
 
 ### Find me on the web 🌐
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhjosuyla/)
-- [![Letterboxd](https://img.shields.io/badge/Letterboxd-00B140?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/anirudh_josuyla)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhjosuyla29@gmail.com)
-
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhjosuyla/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhjosuyla29@gmail.com)
+ [![Letterboxd](https://img.shields.io/badge/Letterboxd-00B140?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/anirudh_josuyla)
+  
 
 
 ### 📝 My Journey
