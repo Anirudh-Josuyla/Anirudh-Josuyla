@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 👨‍💻 Anirudh Josuyla
 Data Engineer (Developer/Problem Solver/Creator)
 
@@ -46,4 +48,9 @@ Coding is an art form. I don’t just see it as solving problems; it’s about c
 I’m always learning and evolving, whether it’s mastering a new technology or exploring how data can tell a better story. I stay curious and push myself to be better every day.
 
 🎯 Let's Connect
-I’m open to collaborations, discussions, and project opportunities. If you’re working on something interesting in the data space or just want to chat about tech, movies, or creative writing, feel free to reach out!
+I’m open to collaborations, discussions, and project opportunities. If you’re working on something interesting in the data space or just want to chat about tech, movies, or creative writing, feel free to reach out! 
+
+<a href="https://drive.google.com/file/d/10ddpU2wKhJgjVJB9zwq-9mnyX19kx1V2/view?usp=drive_link" target="_blank">
+    <button class="download-btn">View My Resume</button>
+</a>
+
