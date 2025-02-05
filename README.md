@@ -1,11 +1,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-👨‍💻 Anirudh Josuyla
-Data Engineer (Developer/Problem Solver/Creator)
+ <h1>👨‍💻  Anirudh Josuyla</h1>
+        Data Engineer (Developer/Problem Solver/Creator)
 
 I’m a Data Engineer with a passion for crafting efficient and scalable data solutions. I specialize in building data pipelines, optimizing workflows, and solving real-world problems with code. From the planning stage to execution, I take a hands-on approach to deliver impactful solutions that drive business success.
 
 In my free time, I love watching movies and diving into creative writing, exploring new ways to express ideas and stories. I’m constantly learning, growing, and challenging myself to push boundaries in both my professional and personal pursuits.
+
 
 
 ### 🔧 My Tech Stack & Tools
