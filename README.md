@@ -1,55 +1,105 @@
+<!-- Viewport Meta Tag -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
- <h1>👨‍💻  Anirudh Josuyla</h1>
-        Data Engineer (Developer/Problem Solver/Creator)
+<h1 align="center">👨‍💻 Hey, I'm Anirudh Josuyla! 🚀</h1>
+<h3 align="center">Data Engineer | Developer | Problem Solver | Creator</h3>
 
-I’m a Data Engineer with a passion for crafting efficient and scalable data solutions. I specialize in building data pipelines, optimizing workflows, and solving real-world problems with code. From the planning stage to execution, I take a hands-on approach to deliver impactful solutions that drive business success.
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px">
+</p>
 
-In my free time, I love watching movies and diving into creative writing, exploring new ways to express ideas and stories. I’m constantly learning, growing, and challenging myself to push boundaries in both my professional and personal pursuits.
+---
 
+### 💻 **About Me**
+```yaml
+- Passionate about solving complex data challenges 🚀
+- Always learning new tech and growing as a developer 🔥
+- Specialize in scalable data pipelines, cloud computing & automation 🌍
+- Love movies 🎥, storytelling ✍️, and creative problem-solving 💡
 
+```
 
-### 🔧 My Tech Stack & Tools
+---
 
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+### 🔧 **Tech Stack & Tools**  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50px" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git"/>
+</p>
 
-<br>
+---
 
-<br><br> 
+### 🌎 **Find Me on the Web**
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirudhjosuyla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anirudhjosuyla29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://letterboxd.com/anirudh_josuyla" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-00B140?style=for-the-badge&logo=letterboxd&logoColor=white"/>
+  </a>
+</p>
 
-### Find me on the web 🌐
+---
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhjosuyla/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhjosuyla29@gmail.com)
- [![Letterboxd](https://img.shields.io/badge/Letterboxd-00B140?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/anirudh_josuyla)
-  
+### 📈 **GitHub Stats & Streak**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjosuyla&theme=radical&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhjosuyla&show_icons=true&theme=radical&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjosuyla&layout=compact&theme=radical&hide_border=true" />
+</p>
 
+---
 
-### 📝 My Journey
-I began my career as a Data Engineer, passionate about building data-driven solutions that solve complex business challenges. Over the years, I’ve honed my skills in cloud computing, databases, and data pipelines, working with tools like AWS, Python, and SQL. Every project I work on is an opportunity to refine my skills and learn something new.
+### 🎯 **What Drives Me?**
+🚀 **Scalable Data Solutions** – Building pipelines that don't just work but thrive at scale.  
+✨ **Creativity in Code** – Writing elegant, efficient, and impactful solutions.  
+🌱 **Continuous Learning** – Always improving, always growing.  
 
-When I'm not coding, I enjoy unwinding with a good movie or diving into writing to express my thoughts and ideas. It's a way for me to stay creative and maintain a balance between my technical work and personal interests.
+> _"The data is always speaking. You just have to learn how to listen."_  
 
-💡 What Drives Me
-🚀 Building Data Solutions that Scale
-As a Data Engineer, my mission is to create systems that not only work but thrive as they scale. I build solutions with long-term impact in mind.
+---
 
-✨ Creativity in Code
-Coding is an art form. I don’t just see it as solving problems; it’s about creating something elegant, efficient, and innovative. Every line of code is a brushstroke that brings the picture into focus.
+### 📝 **Latest Blog Posts & Content**
+<!-- BLOG-POST-LIST:START -->
+➡️ [Coming Soon: Technical Blogs & Project Breakdowns!]  
+<!-- BLOG-POST-LIST:END -->
 
-🌱 Continuous Learning
-I’m always learning and evolving, whether it’s mastering a new technology or exploring how data can tell a better story. I stay curious and push myself to be better every day.
+---
 
-🎯 Let's Connect
-I’m open to collaborations, discussions, and project opportunities. If you’re working on something interesting in the data space or just want to chat about tech, movies, or creative writing, feel free to reach out! 
+### 📂 **Featured Projects**
+🔹 **Project 1: Real-Time Data Pipeline with AWS & Snowflake**  
+🔹 **Project 2: Automated ETL Workflow with Apache Airflow**  
+🔹 **Project 3: Data Warehouse Optimization & Query Tuning**  
 
+📌 Check out my repositories for full details!  
+
+---
+
+### 🎬 **Fun Fact**
+**I believe every dataset has a hidden story.** 🔍 I just help bring it to life! 📊📖  
+
+---
+
+### 📄 **Download My Resume**  
 <a href="https://drive.google.com/file/d/1e0k7PNQXjRJVXOhQ9XGWMb45F7ACeItU/view?usp=drive_link" download>
-    <button class="download-btn">Download My Resume</button>
+  <img src="https://img.shields.io/badge/Download Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
+---
+
+🔥 **Thanks for stopping by! Let's build something amazing together.** 🚀
+
+
+---
+
+Anirudh Josuyla ⓒ
 
