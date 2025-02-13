@@ -62,7 +62,7 @@
 ---
 
 ### 📄 **Download My Resume**  
-<a href="https://drive.google.com/file/d/1e0k7PNQXjRJVXOhQ9XGWMb45F7ACeItU/view?usp=drive_link" download>
+<a href="https://drive.google.com/file/d/1gc-OA3iHFqOspZimTJGRzIysZhmQi5Ja/view?usp=drive_link" download>
   <img src="https://img.shields.io/badge/Download Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
