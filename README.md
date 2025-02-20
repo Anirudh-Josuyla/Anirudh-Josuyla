@@ -10,14 +10,12 @@
 
 ---
 
-### 💻 **About Me**
-```yaml
-- Passionate about solving complex data challenges 🚀
-- Always learning new tech and growing as a developer 🔥
-- Specialize in scalable data pipelines, cloud computing & automation 🌍
-- Love movies 🎥, storytelling ✍️, and creative problem-solving 💡
+### 💡 About Me  
 
-```
+🚀 Passionate **Data Engineer** with expertise in **Cloud Computing (AWS, Azure), Generative AI, ETL Pipelines, and Big Data Processing**.  
+💡 Experienced in **Retrieval-Augmented Generation (RAG), Machine Learning, and Knowledge Graphs** to build **scalable AI-driven solutions**.  
+🎯 Focused on **optimizing data workflows, automating analytics, and creating insightful dashboards**.  
+🌍 Strong believer in **continuous learning, creativity in coding, and unlocking the stories hidden in data**.  
 
 ---
 
